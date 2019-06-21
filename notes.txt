@@ -1,0 +1,10 @@
+============================
+How to setup and instructure
+============================
+
+1. sql-file contaner the sql file. Please create a database called "sales" and then upload that sql file. 
+
+2. Change the database credentials from the config.php file. 
+
+3. Now if you put this "job-tasks" folder in "htdocs" folder then it's should go to "http://localhost/job-tasks/". Here you can see 2 button. One is for Record a news and other is for Search Report. 
+
